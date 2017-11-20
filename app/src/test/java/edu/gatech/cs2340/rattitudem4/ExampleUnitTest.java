@@ -1,5 +1,7 @@
 package edu.gatech.cs2340.rattitudem4;
 
+import android.app.Activity;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -14,4 +16,5 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
+
 }

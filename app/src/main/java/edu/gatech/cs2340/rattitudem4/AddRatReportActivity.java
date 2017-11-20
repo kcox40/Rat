@@ -387,4 +387,5 @@ public class AddRatReportActivity extends AppCompatActivity implements LocationL
         return -1;
     }
 
+
 }
